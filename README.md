@@ -224,7 +224,7 @@ By utilizing this hybrid approach, the Alpha Hybrid Model outperforms traditiona
 
 ## Documentation
 
-For more detailed information, please refer to the [GitHub repository](https://github.com/yourusername/alpha_hybird_model).
+For more detailed information, please refer to the [GitHub repository](https://github.com/ihtesham-jahangir/alpha_hybird_model).
 
 ---
 
@@ -237,7 +237,7 @@ Contributions are welcome! Here's how you can help:
 2. **Clone Your Fork**:
 
    ```bash
-   git clone https://github.com/yourusername/alpha_hybird_model.git
+   git clone https://github.com/ihtesham-jahangir/alpha_hybird_model.git
    ```
 
 3. **Create a Feature Branch**:
@@ -262,7 +262,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Reporting Issues
 
-If you encounter any problems, please [open an issue](https://github.com/yourusername/alpha_hybird_model/issues).
+If you encounter any problems, please [open an issue](https://github.com/ihtesham-jahangir/alpha_hybird_model/issues).
 
 ---
 
@@ -274,9 +274,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Author**: ihtesham jahangir
+- **Email**: [ihteshamjahangir21@gmail.com](mailto:ihteshamjahangir21@gmail.com)
+- **GitHub**: [yourusername](https://github.com/ihtesham-jahangir)
 
 ---
 
@@ -293,4 +293,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Note**: Make sure to replace placeholders like `yourusername`, `Your Name`, and `your.email@example.com` with your actual GitHub username, your name, and your email address, respectively. Also, update the GitHub repository links to point to your actual repository.
+
