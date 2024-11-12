@@ -276,7 +276,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - **Author**: ihtesham jahangir
 - **Email**: [ihteshamjahangir21@gmail.com](mailto:ihteshamjahangir21@gmail.com)
-- **GitHub**: [yourusername](https://github.com/ihtesham-jahangir)
+- **GitHub**: [ihtesham-jahangir](https://github.com/ihtesham-jahangir)
 
 ---
 
