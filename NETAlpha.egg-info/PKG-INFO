@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: NetAlpha
+Version: 0.1.6
+Summary: Alpha Hybrid CNN model for classification tasks
+Home-page: https://github.com/ihtesham-jahangir/alpha_hybird_model
+Author: Ihtesham Jahangir
+Author-email: ihteshamjahangir21@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: matplotlib>=3.7.1
+Requires-Dist: tensorflow>=2.12.0
+Requires-Dist: setuptools>=65.5.0
+Requires-Dist: wheel>=0.40.0
+
 
 # NetAlpha
 
