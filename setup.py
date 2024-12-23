@@ -4,11 +4,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="NetAlpha",
-    version="0.1.6",  # Ensure this is updated if uploading new versions
+    name="alphanetworks",
+    version="0.1.5",  # Ensure this is updated if uploading new versions
     author="Ihtesham Jahangir",
     author_email="ihteshamjahangir21@gmail.com",
-    description="Alpha Hybrid CNN model for classification tasks",
+    description="Alpha Hybrid CNN model for Image classification tasks Developed By Ihtesham Jahangir at Alpha Networks",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ihtesham-jahangir/alpha_hybird_model",
@@ -19,10 +19,12 @@ setuptools.setup(
         "tensorflow>=2.12.0",  # Latest stable version of TensorFlow
         "setuptools>=65.5.0",  # Latest stable version
         "wheel>=0.40.0",  # Latest stable version
+        "seaborn>=0.11.2",  # For confusion matrix visualization
+        "scikit-learn>=1.0.2",  # For classification report and confusion matrix
     ],
     entry_points={
         'console_scripts': [
-            'netalpha=scripts.train_model:main',  # Entry point for the training script
+            'alphanetworks=scripts.train_model:main',  # Entry point for the training script
         ],
     },
     classifiers=[

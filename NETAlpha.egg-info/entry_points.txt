@@ -1,2 +1,0 @@
-[console_scripts]
-netalpha = scripts.train_model:main

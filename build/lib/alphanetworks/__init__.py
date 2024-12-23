@@ -1,2 +1,2 @@
-from .model import build_model
+from .model import alphanet
 from .utils import plot_training_history

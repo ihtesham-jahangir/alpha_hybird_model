@@ -6,7 +6,7 @@ from tensorflow.keras.layers import Input, Concatenate, Dense, Dropout
 from tensorflow.keras.models import Model
 from tensorflow.keras.regularizers import l2
 
-def build_model(input_shape=(224, 224, 3), num_classes=2):
+def alphanet(input_shape=(224, 224, 3), num_classes=2):
     inputs = Input(shape=input_shape, name="main_input")
     
     # Instantiate only two base models to reduce complexity
